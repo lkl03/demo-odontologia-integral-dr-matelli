@@ -1,2 +1,7 @@
-# demo-odontologia-integral-dr-matelli
-Demo web para Odontologia Integral Dr. Matelli — diseñada por eterlab.
+# Odontologia Integral Dr. Matelli
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
